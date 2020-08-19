@@ -13,7 +13,7 @@
   <artifactId>moneys</artifactId>
   <packaging>war</packaging>
   <name>moneys</name>
-  <description>moneys.</description>
+  <description>moneys.description>
 
   <build>
     <finalName>${project.artifactId}</finalName>
